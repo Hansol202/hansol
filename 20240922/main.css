@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+}
+
+.kang {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border: 5px solid blue;
+  border-radius: 50%;
+}
+
+.khs {
+  margin: 24px auto;
+  width: 240px;
+  height: 100px;
+  border-radius: 24px;
+}
+
+.outer {
+  width: 200px;
+  height: 200px;
+  background-color: #eee;
+  border-radius: 10px 10px 24px 0px;
+}
+
+.with-bg {
+  height: 100%;
+  background-image: url(https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F736x%2F10%2F86%2Ff1%2F1086f11edf9d2bbe37c64a751c99f1cc--fashion-blogs-boo-dog.jpg&type=sc960_832
+  );
+  background-size: cover;
+  border-radius: 50%;
+  border: 10px solid red;
+}
