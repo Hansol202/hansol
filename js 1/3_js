@@ -1,0 +1,55 @@
+let a=1
+var b=2
+console.log(10*(a+b));
+
+console.log (10 * (10+10));
+
+let number = 1;
+
+number ++;;
+console.log(number);
+
+number --;
+console.log(number);
+console.log('---------------');
+
+let result = 1;
+console.log(result);
+
+result = number ++;
+console.log(result, number);
+
+result = number --;
+console.log(result, number);
+
+result = ++ number ;
+console.log(result, number);
+
+result = -- number ;
+console.log(result, number);
+
+console.log(5==5);
+console.log(5=='5');
+console.log(true == 1);
+console.log(false == 0);
+console.log(true == '1');
+
+console.log(5===5);
+console.log(5==='5');
+
+console.log(10 > 0 ? '10이 0보다 크다' : '10이 0보다 작다');
+
+
+console.log(true && true);
+console.log(true && false);
+console.log(true || true);
+console.log(true || false);
+console.log(false || true);
+
+console.log(10 > 1 && 20 > 2);
+console.log(10 < 1 && 20 > 2);
+
+
+
+
+
